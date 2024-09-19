@@ -1,0 +1,14 @@
+/* Header */
+@import url(./styles/header/header.css);
+@import url(./styles/header/__title/header__title.css);
+
+/* Start Game Buttom */
+@import url(./styles/start-game/start-game.css);
+@import url(./styles/start-game/__button/start-game-button.css);
+
+/* Board */
+@import url(./styles/board/board.css);
+
+/* Tile */
+@import url(./styles/tile/tile.css);
+@import url(./styles/tile/__img/tile__img.css)

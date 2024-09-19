@@ -1,0 +1,6 @@
+.board {
+  margin: 50px auto;
+  border: solid 1px red;
+  width: 600px;
+  height: 600px; 
+}
